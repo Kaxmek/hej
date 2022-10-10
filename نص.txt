@@ -1,0 +1,23 @@
+print (“\t”*13 + شلــﯡنڪكہ‌‏ ياكواد")
+print (“\n”) emojies = '💩'
+print (“\t”*10 + emojies[0:3] * “\t”*9 + emojies[0:3])
+print (“\t”*9 + emojies[0] + “\t”*4 + emojies[0] + “\t”*5 + emojies[0] + “\t”5 + emojies[0])
+print (“\t”*8 + emojies[0] + “\t”*6 + emojies[0] + “\t”*3 + emojies[0] + “\t”7 + emojies[0])
+print (“\t”*7 + emojies[0] + “\t”*7 + emojies[0] + “\t”*3 + emojies[0] + “\t”*7 + emojies[0])
+print (“\t”*7 + emojies[0] + “\t”*8 + emojies[0] + “\t” + emojies[0] + “\t”*8 + emojies[0])
+print (“\t”*7 + emojies[0] + “\t”*9 + emojies[0] + “\t”*9 + emojies[0]
+print (“\t”*7 + emojies[0] + (“\t”*19 + emojies[0])
+print (“\t”*8 + emojies[0] + (“\t”*17 + emojies[0])
+print (“\t”*9 + emojies[0] + (“\t”*15 + emojies[0])
+print (“\t”*10 + emojies[0] + (“\t”*13 + emojies[0])
+print (“\t”*11 + emojies[0] + (“\t”*11 + emojies[0])
+print (“\t”*12 + emojies[0] + (“\t”*9 + emojies[0])
+print (“\t”*13 + emojies[0] + (“\t”*7 + emojies[0])
+print (“\t”*14 +emojies[0] + (“\t”*5 + emojies[0])
+print (“\t”*15 + emojies[0] + (“\t”*3 + emojies[0])
+print (“\t”*16 + emojies[0]
+print ("\n")
+print “(\t”*10 + “أنــت اكبر كواد دراغون"
+print (“\n”2)
+print (“\t”*9 + “FOllow me on tale:”)
+print (“\t”*15 + “@H_P_K”)
